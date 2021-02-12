@@ -1,0 +1,2 @@
+C:\cpp projects\116 stack ht\Debug\116 stack ht.exe
+C:\cpp projects\116 stack ht\Debug\116 stack ht.pdb
