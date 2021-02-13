@@ -1,2 +1,0 @@
-C:\cpp projects\115 steck\Debug\115 steck.exe
-C:\cpp projects\115 steck\Debug\115 steck.pdb

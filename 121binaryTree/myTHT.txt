@@ -1,0 +1,20 @@
+
+bus number: 1
+first last names: Danik Zharmukanov
+minibus number: 322
+count of seats: 2
+
+bus number: 12
+first last names: GAVRIK
+minibus number: 111
+count of seats: 10
+
+bus number: 13
+first last names: MAVRIK
+minibus number: 777
+count of seats: 10000
+
+bus number: 28
+first last names: AZAMAZA
+minibus number: 323
+count of seats: 5
